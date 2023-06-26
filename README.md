@@ -1,8 +1,7 @@
 
 # Classification-Project-Customer-Turnover-Case
-Context
-
-    This project is a Supervised Machine Learning which aims to analyze customer churn, identify key indicators, and develop strategies for customer retention. By analyzing data variables and using various techniques, we aim to predict and mitigate customer churn.
+## Context
+ This project is a Supervised Machine Learning which aims to analyze customer churn, identify key indicators, and develop strategies for customer retention. By analyzing data variables and using various techniques, we aim to predict and mitigate customer churn.
 
 # Procedure
 
