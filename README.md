@@ -7,9 +7,6 @@
 
 The file is going to document the steps and procedure used to complete this project in every step of the way. Below are the steps folowed to achieve the aim of the project.
 
-#Steps
-
-
 1. **Data Collection**: The Telco customer data is collected from the provided sources, including the `LP2_Telco_churn_first_3000` table in a SQL Server database and the `LP2_Telco-churn-last-2000.csv` and `Telco-churn-second-2000.xlsx` files. This data contains information about customer demographics, services subscribed, payment methods, and churn status.
 
 2. **Data Loading**: The collected data is loaded into the code and transformed into a suitable format for analysis. The `pyodbc` package is used to connect to the SQL Server database and fetch data from the `LP2_Telco_churn_first_3000` table. The data from the CSV and Excel files is read using the `pandas` library and concatenated with the SQL data to create a comprehensive dataset.
